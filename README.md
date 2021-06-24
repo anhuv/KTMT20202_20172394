@@ -7,7 +7,7 @@ và mô phỏng hiệu năng của cache dựa trên tài liệu tham khảo
 https://github.com/mortbopet/Ripes/wiki/Cache-Simulation
 viết chương trình tính ma trận, bộ lọc trung vị cho ảnh và khảo sát cấu trúc chương trình tới hiệu năng cache. 
 ```
-Chương trình được viết bằng Python nhằm mục đích tạo ra các đọa code RISC V, với các bài toán về ma trận và bộ lọc trung vị.
+Chương trình được viết bằng Python nhằm mục đích tạo ra các đọan code RISC V, với các bài toán về ma trận và bộ lọc trung vị.
 
 # Cách sử dụng
 * Truy cập [youtube link](https://www.youtube.com/) để xem video cách thức chạy chương trình mà nhóm làm
