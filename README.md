@@ -12,7 +12,7 @@ Chương trình được viết bằng Python thực hiện cùng lúc 2 chức 
 * Tạo ra các đoạn code assembly RISC V về các bài toán về ma trận và bộ lọc trung vị.
 
 Bằng việc sử dụng chương trình này có 2 lợi ích chính:
-* Dễ dàng thay đổi đầu vào của bài toán, kích thước ma trận đầu vào, thay vì code lại assembly rất vất vả và dễ nhầm lần.
+* Dễ dàng thay đổi đầu vào của bài toán, kích thước ma trận đầu vào, thay vì code lại assembly rất vất vả và dễ nhầm lần; chúng ta có thể sử dụng chương trình python trên đây do em xây dựng sẽ rất dễ dàng, sinh code assembly tự động.
 * Có thể so sánh kết quả của đoạn code chạy bằng assembly và code python, giúp kết quả sinh động, dễ đối chiếu.
 
 Qua việc xây dựng việc giải các bài toán một cách song song bằng RISC V và Python thì cũng nhận thấy rằng việc code bằng Assembky hết sức vật vả, thiếu IDE hỗ trợ việc Debug.
