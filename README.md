@@ -10,5 +10,5 @@ viết chương trình tính ma trận, bộ lọc trung vị cho ảnh và kh�
 Chương trình được viết bằng Python nhằm mục đích tạo ra các đọan code RISC V, với các bài toán về ma trận và bộ lọc trung vị.
 
 # Cách sử dụng
-* Truy cập [youtube link](https://www.youtube.com/) để xem video cách thức chạy chương trình mà nhóm làm
+* Truy cập [youtube link](https://youtu.be/qnPz5rxPdZU) để xem video cách thức chạy chương trình mà nhóm làm
 * Link Google Colab [link](https://colab.research.google.com/drive/1XbPFkgitwHpiFOeR0SiXV7LMrhBzmLBT?usp=sharing)
